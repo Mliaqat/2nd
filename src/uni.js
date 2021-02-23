@@ -6,7 +6,7 @@
 
             <div>
 
-           <h1> My is {props.name} and class is {props.class} </h1>
+           <h1> My is {props.name} and class is {props.class} in numl</h1>
 
             </div>
 
