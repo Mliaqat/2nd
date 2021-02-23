@@ -1,15 +1,10 @@
-    import React from 'react';
+    import {React} from "react";
 
-    function Uni(props) {
+    function  Uni(props) {
 
         return(
 
-            <div>
-
-           <h1> My is {props.name} and class is {props.class} in numl and</h1>
-
-            </div>
-
+            <h1>hi i am {props.name }in class {props.class}</h1>
         );
         
     }
